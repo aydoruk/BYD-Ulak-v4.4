@@ -1,0 +1,15 @@
+{
+  "name": "ulak-byd-cloud-relay",
+  "version": "4.0.0",
+  "description": "ULAK v4.0 BYD Seal U DM-i Cloud Relay, WebRTC Signaling, Live Camera & Web Portal for Render",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
